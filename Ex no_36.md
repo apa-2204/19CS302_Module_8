@@ -8,10 +8,10 @@ Saveetha
 
 The required output is: Hello, Saveetha! C Programming
 
-##AIM: 
+## AIM: 
 To write a C program to print the given string. 
  
-##ALGORITHM: 
+## ALGORITHM: 
 1. Start. 
 2. Define a variables. 
 3. Write a program to print the given string. 
@@ -20,7 +20,7 @@ To write a C program to print the given string.
 6. Print out the answer. 
 7. End. 
  
-##PROGRAM: 
+## PROGRAM: 
 ```
 #include<stdio.h> 
 int main() 
@@ -30,9 +30,9 @@ scanf("%[^\n]",a);
 printf("Hello, Saveetha!\n%s",a); 
 } 
 ```
-##OUTPUT: 
+## OUTPUT: 
  ![image](https://github.com/user-attachments/assets/ae6a0d85-bba7-4108-80b4-a26d846f29be)
 
  
-##RESULT: 
+## RESULT: 
 Thus, the program is executed and verified successfully.
