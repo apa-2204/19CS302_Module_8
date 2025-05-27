@@ -64,7 +64,6 @@ To write a program to print the sum of the integers in the array.
 #include<stdio.h> 
 int main() 
 { 
- SAVEETHA ENGINEERING COLLEGE  
 int i,n,sum=0,arr[100]; 
 scanf("%d",&n); 
 { 
